@@ -1,4 +1,4 @@
 # my-first-github-repository
 Here is my first GitHub repository
 
-README was modified
+This line was modified manually during conflict resolution.
